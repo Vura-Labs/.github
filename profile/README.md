@@ -55,7 +55,7 @@ Pipeline:
 
 ## Status
 
-🚧 Early build phase  
+Early build phase  
 We are shaping Aura into the default cognitive capture layer for everyday life.
 
 ## Vision
